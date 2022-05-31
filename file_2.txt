@@ -1,5 +1,0 @@
-four words
-two strings
-six words
-three strings
-one block
